@@ -1,0 +1,9 @@
+{
+  "app": "my-app",
+  "framework": "go",
+  "buildCommand": "go build -o main",
+  "startCommand": "./main",
+  "env": {
+    "PORT": "8080"
+  }
+}
